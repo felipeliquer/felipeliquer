@@ -8,7 +8,7 @@ Sou Designer desde 2006 e atualmente estudante de Sistemas para Internet em busc
 
 ## Skill Set :muscle:
 
-Estas são algumas das principais tecnologias que estou estudando no momento
+Estas são algumas das principais tecnologias  que atuo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="felipe-PSD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
