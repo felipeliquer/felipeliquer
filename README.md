@@ -1,5 +1,5 @@
-### Olá, eu sou Felipe Liquer! 👋
-Sou Designer desde 2006 e atualmente estudante de Sistemas para Internet em busca de me tornar *Front End*
+### Olá, eu sou Luiz Felipe Liquer! 👋
+Sou especialista em design gráfico, estrategista em marketing digital, entusiasta de UX design de produtos digitais e apaixonado por dados.
 
 ![Felipe Liquer GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeliquer&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeliquer)](https://github.com/felipeliquer/github-readme-stats)
