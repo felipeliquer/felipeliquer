@@ -1,10 +1,9 @@
 ### Olá, eu sou Luiz Felipe Liquer! 👋
 UX/UI Designer | Estudante de ADS | Aplicando HTML, CSS e JS na criação de produtos digitais
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeliquer)](https://github.com/felipeliquer/github-readme-stats)
+![Felipe Liquer GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeliquer&show_icons=true&theme=dracula&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeliquer&langs_count=5&theme=dracula&layout=compact)](https://github.com/felipeliquer/github-readme-stats)
 
-![Felipe Liquer GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeliquer&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeliquer)](https://github.com/felipeliquer/github-readme-stats)
 
 -----------------------
 
