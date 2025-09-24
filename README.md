@@ -1,7 +1,7 @@
 ### Olá, eu sou Luiz Felipe Liquer! 👋
 UX/UI Designer | Estudante de ADS | Aplicando HTML, CSS e JS na criação de produtos digitais
 
-![Felipe Liquer GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeliquer&show_icons=true&theme=dracula&langs_count=8)
+![Felipe Liquer GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeliquer&show_icons=true&theme=dracula&langs_count=8&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeliquer&langs_count=5&theme=dracula&layout=compact)](https://github.com/felipeliquer/github-readme-stats)
 
 
