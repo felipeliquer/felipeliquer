@@ -1,16 +1,10 @@
 ### Olá, eu sou Luiz Felipe Liquer! 👋
 UX/UI Designer | Estudante de ADS | Aplicando HTML, CSS e JS na criação de produtos digitais
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeliquer&layout=compact&langs_count=6&theme=radical" alt="Linguagens Mais Usadas" width="350"/>
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=felipeliquer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="415"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipeliquer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeliquer&layout=compact&langs_count=6&theme=radical" alt="Linguagens Mais Usadas" width="450"/>
+</div>
   
 -----------------------
 
