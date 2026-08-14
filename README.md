@@ -13,12 +13,10 @@ Sou um profissional multidisciplinar com mais de 15 anos de experiência em desi
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/felipeliquer">
-    <img src="https://github-readme-stats.vercel.app/api?username=felipeliquer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" width="450"/>
-  </a>
-  <a href="https://github.com/felipeliquer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeliquer&layout=compact&langs_count=6&theme=radical" alt="Linguagens Mais Usadas" width="450"/>
-  </a>
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipeliquer&show_icons=true&theme=radical&include_all_commits=true&v=1)](https://github.com/felipeliquer)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeliquer&layout=compact&langs_count=6&theme=radical&v=1)](https://github.com/felipeliquer)
+
 </div>
 
 ---
